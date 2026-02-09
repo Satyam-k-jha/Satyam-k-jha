@@ -24,7 +24,7 @@ Focused on building scalable systems and mastering complex algorithms. Currently
 * 🍳 **Cooking Hub:** Developing a centralized application for culinary enthusiasts.
 
 ### 🌟 Beyond the Code
-* 📍 **Google Local Guide (Level 8):** Contributing to the community with 12M+ photo views.
+* 📍 **Google Local Guide (Level 8):** Contributing to the community with 14M+ photo views.
 * 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/satyam-kumar-jha-13052001/) | [Portfolio](https://linktr.ee/satyamjha13)
 
 ---
