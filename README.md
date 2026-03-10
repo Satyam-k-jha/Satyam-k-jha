@@ -162,12 +162,9 @@ philosophy  : "1% better every single day"
 <div align="center">
 
 <!-- Animated Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Satyam-k-jha/Satyam-k-jha/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Satyam-k-jha/Satyam-k-jha/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://profile-readme-generator.com/assets/snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
