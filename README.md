@@ -1,58 +1,147 @@
-# Hi there, I'm Satyam 👋
+# Hi there 👋 I'm Satyam Kumar Jha
 
-### 🚀 Software Engineer & Competitive Programmer
-Focused on building scalable systems and mastering complex algorithms. Currently a **Software Engineer at LTIMindtree** based in Bangalore. 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Satyam-k-jha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+## 🚀 Software Engineer | Competitive Programmer
+
+💻 Software Engineer at **LTIMindtree** in Bangalore
+⚡ Passionate about **Data Structures, Algorithms, and Scalable System Design**
+🎯 Goal: *Become 1% better every day in problem solving*
+
+---
+
+# 🏆 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Satyam_013/">
+  <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://codeforces.com/profile/Satyam_1305">
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces" />
+</a>
+
+<a href="https://www.codechef.com/users/satyam13052001">
+  <img src="https://img.shields.io/badge/CodeChef-3%20Star-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+</p>
+
+### 🧠 Focus Areas
+
+* Data Structures & Algorithms
+* System Design
+* Graph Algorithms
+* Competitive Programming
 
 ---
 
-### 🏆 Competitive Programming & Stats
-* ⚔️ **LeetCode:** [Knight](https://leetcode.com/u/Satyam_013/) 
-* 🛡️ **Codeforces:** [Specialist](https://codeforces.com/profile/Satyam_1305)
-* 👨‍💻 **CodeChef:** [3 Star (⭐⭐⭐)](https://www.codechef.com/users/satyam13052001)
-* 🧠 **Core Focus:** Data Structures, Algorithms, and System Design
-* 🎯 **Goal:** Daily 1% improvement in problem-solving efficiency
+# 🛠️ Tech Stack
 
-### 🛠️ Tech Stack & Skills
-* **Languages:** C#, C++, SQL, Javascript, Postgresql, Python
-* **Frameworks:** .NET Core, ASP.NET, Angular
-* **Expertise:** System Design, IoT Data Monitoring, AI Integration, Microservices
-* **Tools:** Git, Azure, SQL Server, Postman, Swagger
+### 💻 Languages
 
-### 🧪 Current Projects & Work
-* 🛰️ **Jal Jeevan Mission (IoT):** Developing a real-time dashboard for monitoring water data from IoT sensors across UP.
-* ✈️ **Flight Route Optimization:** Building a system to find the most efficient paths using graph algorithms.
-* 🍳 **Cooking Hub:** Developing a centralized application for culinary enthusiasts.
+C# • C++ • Python • JavaScript • SQL
 
-### 🌟 Beyond the Code
-* 📍 **Google Local Guide (Level 8):** Contributing to the community with 14M+ photo views.
-* 🤝 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/satyam-kumar-jha-13052001/) | [Portfolio](https://linktr.ee/satyamjha13)
+### ⚙️ Frameworks
+
+.NET Core • ASP.NET • Angular • Node.js
+
+### ☁️ Cloud & Tools
+
+Azure • Git • SQL Server • Postman • Swagger • Docker
+
+### 🗄️ Databases
+
+PostgreSQL • MySQL
 
 ---
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+# 🧪 Projects
 
+### 🛰️ Jal Jeevan Mission (IoT Monitoring)
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17302603) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skumar65321@gmail.com) 
+Developing a **real-time monitoring dashboard** for water sensors deployed across Uttar Pradesh.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Satyam-k-jha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Satyam-k-jha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-k-jha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Satyam-k-jha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Satyam-k-jha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Tech Used
+`.NET Core • Angular • Azure • IoT Data Processing`
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Satyam-k-jha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### ✈️ Flight Route Optimization
+
+A system that finds **most efficient routes using graph algorithms**
+
+Concepts
+`Graph Theory • Dijkstra • Optimization`
+
+---
+
+### 🍳 Cooking Hub
+
+A **centralized platform for culinary enthusiasts** to explore recipes and cooking techniques.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Satyam-k-jha&show_icons=true&theme=tokyonight" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Satyam-k-jha&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-k-jha&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam-k-jha&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Satyam-k-jha&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🌍 Beyond Coding
+
+📍 **Google Local Guide Level 8**
+📸 **14M+ photo views**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/satyam-kumar-jha-13052001">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:skumar65321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://stackoverflow.com/users/17302603">
+<img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+</p>
