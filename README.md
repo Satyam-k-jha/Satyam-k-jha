@@ -87,9 +87,11 @@ I thrive on solving complex computational problems. My competitive programming r
 
 ## 📊 GitHub Analytics & Consistency
 
+## 📊 GitHub Analytics & Consistency
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-k-jha&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70A5FD&icon_color=BF94E4&v=2" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-k-jha&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70A5FD&layout=compact&v=2" height="190" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-k-jha&theme=tokyonight&hide_border=true&hide_bg=true&title_color=70A5FD&icon_color=BF94E4" height="190" alt="Satyam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-k-jha&theme=tokyonight&hide_border=true&hide_bg=true&title_color=70A5FD&layout=compact" height="190" alt="Satyam's Top Languages" />
 </div>
 
 <br>
