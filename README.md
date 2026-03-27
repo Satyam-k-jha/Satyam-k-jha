@@ -96,7 +96,7 @@ I thrive on solving complex computational problems. My competitive programming r
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-k-jha&theme=tokyonight&hide_border=true&background=00000000&ring=70A5FD&fire=70A5FD&currStreakNum=BF94E4" alt="GitHub Streak" />
 </div>
-## 📊 GitHub Analytics & Consistency
+<!-- ## 📊 GitHub Analytics & Consistency -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Satyam-k-jha&theme=tokyonight&hide_border=true&hide_bg=true&title_color=70A5FD&icon_color=BF94E4" height="190" alt="Satyam's GitHub Stats" />
@@ -105,9 +105,9 @@ I thrive on solving complex computational problems. My competitive programming r
 
 <br> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-k-jha&theme=tokyonight&hide_border=true&background=00000000&ring=70A5FD&fire=70A5FD&currStreakNum=BF94E4" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <!-- <br>
 
