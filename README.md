@@ -86,15 +86,27 @@ I thrive on solving complex computational problems. My competitive programming r
 ## 📊 GitHub Analytics & Consistency
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-k-jha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-k-jha&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" height="195" />
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Satyam-k-jha&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70A5FD&icon_color=BF94E4" alt="Satyam's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-k-jha&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=70A5FD&layout=compact" alt="Satyam's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-k-jha&theme=tokyonight&hide_border=true&background=00000000&ring=70A5FD&fire=70A5FD&currStreakNum=BF94E4" alt="GitHub Streak" />
+</div>
+
+<!-- <br>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Satyam-k-jha&theme=tokyonight&border_radius=12&hide_border=true" />
-</div>
+</div> -->
 
 ---
 
