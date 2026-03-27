@@ -40,7 +40,7 @@ philosophy  : "1% better every single day"
 |:--------:|:----:|:-------:|
 | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | 🏅 **Knight** | [Satyam_013](https://leetcode.com/u/Satyam_013/) |
 | ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | 🔵 **Specialist** | [Satyam_1305](https://codeforces.com/profile/Satyam_1305) |
-| ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | ⭐⭐⭐ **3 Star** | [satyam13052001](https://www.codechef.com/users/satyam13052001) |
+| ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | ⭐⭐⭐⭐ **4 Star** | [satyam13052001](https://www.codechef.com/users/satyam13052001) |
 
 </div>
 
@@ -49,7 +49,7 @@ philosophy  : "1% better every single day"
 ```
      LeetCode Knight  ████████████████████░░░  Top Tier
    CF Specialist      ███████████████░░░░░░░░  1400+ Rating
-   CC 3-Star          ████████████░░░░░░░░░░░  1600+ Rating
+   CC 4-Star          ██████████████████░░░░░  1800+ Rating
 ```
 
 </div>
