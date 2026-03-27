@@ -54,9 +54,9 @@ I thrive on solving complex computational problems. My competitive programming r
 
 | 🏆 LeetCode | 🔵 Codeforces | 👨‍🍳 CodeChef |
 | :---: | :---: | :---: |
-| <img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-07.gif" width="60" height="60"><br>**Knight** | <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"><br>**Specialist** | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"><br>**3-Star** |
+| <img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-07.gif" width="60" height="60"><br>**Knight** | <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"><br>**Specialist** | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"><br>**4-Star** |
 | [Satyam_013](https://leetcode.com/u/Satyam_013/) | [Satyam_1305](https://codeforces.com/profile/Satyam_1305) | [satyam13052001](https://www.codechef.com/users/satyam13052001) |
-| Top Tier Problem Solver | 1400+ Rating | 1600+ Rating |
+| Top Tier Problem Solver | 1400+ Rating | 1800+ Rating |
 
 </div>
 
