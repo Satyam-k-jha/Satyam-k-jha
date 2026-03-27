@@ -47,7 +47,7 @@ philosophy  : "1% better every single day"
 <div align="center">
 
 ```
-     LeetCode Knight  ████████████████████░░░  Top Tier
+   LeetCode Knight    ████████████████████░░░  Top Tier
    CF Specialist      ███████████████░░░░░░░░  1400+ Rating
    CC 4-Star          ██████████████████░░░░░  1800+ Rating
 ```
