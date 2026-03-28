@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satyam%20Kumar%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%7C%20Solving%20Hard%20Problems&descAlignY=60&descSize=18&animation=twinkling"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+LTM;Competitive+Programmer+(LeetCode+Knight);Building+Scalable+Backend+Systems;1%25+Better+Every+Single+Day" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+LTM;Competitive+Programmer;LeetCode+Knight+%7C+Codeforces+Expert+%7C+CodeChef+4★;Building+Scalable+Backend+Systems;1%25+Better+Every+Single+Day" />
+</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-kumar-jha-13052001"><img src="https://img.shields.io/badge/Open%20To%20Work-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
