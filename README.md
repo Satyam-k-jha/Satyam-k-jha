@@ -1,229 +1,92 @@
-# <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Satyam%20Kumar%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20•%20Competitive%20Programmer%20•%20Problem%20Solver&descAlignY=60&descSize=18&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satyam%20Kumar%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%7C%20Solving%20Hard%20Problems&descAlignY=60&descSize=18&animation=twinkling"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+LTIMindtree;Building+Scalable+Backend+Systems;ASP.NET+Core+%7C+Angular+%7C+PostgreSQL;Competitive+Programmer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+LTM;Competitive+Programmer;LeetCode+Knight+%7C+Codeforces+Expert+%7C+CodeChef+4★;Building+Scalable+Backend+Systems;1%25+Better+Every+Single+Day" />
 </a>
 
-<br><br>
-
-<a href="<linkedin>">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="<portfolio>">
-<img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
-
-<a href="mailto:<email>">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Satyam-k-jha&style=for-the-badge&color=6e40c9"/>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyam-kumar-jha-13052001"><img src="https://img.shields.io/badge/Open%20To%20Work-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:skumar65321@gmail.com"><img src="https://img.shields.io/badge/skumar65321@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=Satyam-k-jha&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Views"/>
+</p>
 </div>
 
 ---
 
-# 👋 About Me
-
-I'm a **Software Engineer at LTIMindtree** passionate about designing scalable backend systems and solving challenging algorithmic problems.
-
-I enjoy building reliable APIs, writing clean and maintainable code, optimizing performance, and continuously learning modern software engineering practices.
-
-* 💼 Software Engineer @ **LTIMindtree**
-* ⚙️ Backend Engineering using **ASP.NET Core**
-* 💻 Strong foundation in **C++**, **Data Structures & Algorithms**
-* ☁️ Exploring Distributed Systems, Cloud & System Design
-* 🎯 Targeting Product-Based Engineering Roles
-
----
-
-# 🏆 Engineering Highlights
-
-* 🥇 GATE Qualified (2023 & 2024)
-* 💯 700+ Algorithmic Problems Solved
-* 🧠 Competitive Programmer
-* 🚀 Backend Engineer specializing in scalable REST APIs
-* 📚 Passionate about System Design & Performance Optimization
-
----
-
-# 💼 Professional Experience
-
-> *(Replace this section with your latest resume experience.)*
-
-## Software Engineer — LTIMindtree
-
-**Duration:** `<Month YYYY – Present>`
-
-### Responsibilities
-
-* Built and maintained scalable backend services using ASP.NET Core.
-* Developed REST APIs following clean architecture principles.
-* Collaborated with cross-functional teams to deliver production features.
-* Worked with Angular frontend and PostgreSQL databases.
-* Optimized queries and improved application performance.
-* Participated in debugging, code reviews, and production support.
-
-**Tech Stack**
-
-`ASP.NET Core`
-`Angular`
-`Entity Framework Core`
-`PostgreSQL`
-`Azure`
-`Git`
-
----
-
-# 🚀 Featured Projects
-
-## 🛰️ Jal Jeevan Mission
-
-Large-scale IoT monitoring platform for water infrastructure.
-
-### Highlights
-
-* Developed backend features for real-time monitoring.
-* Worked with REST APIs and database optimization.
-* Improved platform reliability and maintainability.
-
-**Tech**
-
-`.NET`
-`Angular`
-`PostgreSQL`
-`Azure`
-
----
-
-## ✈️ Flight Route Optimizer
-
-High-performance graph-based routing engine.
-
-### Highlights
-
-* Implemented Dijkstra's Algorithm.
-* Efficient graph traversal.
-* Optimized shortest-path computation.
-* Modular C++ architecture.
-
-**Tech**
-
-`C++`
-`STL`
-`Graph Theory`
-
----
-
-## 🍳 Cooking Hub
-
-Full-stack web application for cooking class management.
-
-### Highlights
-
-* JWT Authentication
-* Role-based Authorization
-* CRUD Operations
-* Responsive Angular UI
-
-**Tech**
-
-`ASP.NET Core`
-`Angular`
-`Entity Framework Core`
-`SQL Server`
-
----
-
-# 🧠 Competitive Programming
-
-<div align="center">
-
-|    Platform    | Profile                                         |
-| :------------: | :---------------------------------------------- |
-|   🟠 LeetCode  | https://leetcode.com/u/Satyam_013/              |
-|  🔵 Codeforces | https://codeforces.com/profile/Satyam_1305      |
-| 👨‍🍳 CodeChef | https://www.codechef.com/users/satyam13052001   |
-|  🟢 HackerRank | <https://www.hackerrank.com/profile/<username>> |
-
-</div>
-
----
-
-# ⚡ Technical Arsenal
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,sql"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,html,css"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman"/>
-</p>
-
----
-
-# 📚 Engineering Interests
-
-* Backend Development
-* Distributed Systems
-* REST APIs
-* Microservices
-* Design Patterns
-* System Design
-* Performance Optimization
-* Cloud Computing
-
----
-
-# 🌱 Currently Learning
-
-* System Design
-* Distributed Systems
-* Redis
-* Docker
-* Kubernetes
-* Azure
-* CI/CD
-* High-Performance Backend Engineering
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Satyam-k-jha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-k-jha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+## 🚀 Proof of Work (Featured Projects)
+> *I build systems that **scale**, write code that **performs**, and solve problems that **matter**.*
+
+<details open>
+<summary><b>🛰️ Jal Jeevan Mission (IoT & Scalability)</b></summary>
 <br>
+Real-time IoT monitoring dashboard handling massive streams of water sensor data across Uttar Pradesh.
+  
+- **Impact:** Enabled real-time monitoring of civic infrastructure at a state-wide scale.
+- **Tech Stack:** `.NET Core` | `Angular` | `Azure` | `IoT Pipelines`
+</details>
+
+<details open>
+<summary><b>✈️ Flight Route Optimizer (Algorithms & Graph Theory)</b></summary>
+<br>
+A high-performance routing engine to calculate the most efficient flight paths.
+  
+- **Impact:** Minimized routing latency by implementing advanced graph traversal techniques.
+- **Tech Stack:** `C++` | `Dijkstra's Algorithm` | `Graph Theory`
+</details>
+
+<details open>
+<summary><b>🍳 Cooking Hub (Full-Stack Engineering)</b></summary>
+<br>
+Centralized platform for culinary techniques and recipe discovery.
+  
+- **Impact:** Built a smooth, responsive UI backed by a robust, secure backend.
+- **Tech Stack:** `Node.js` | `JavaScript` | `REST APIs`
+</details>
+
+---
+
+## 🧠 Algorithmic Problem Solving
+I thrive on solving complex computational problems. My competitive programming ranks are a testament to my ability to write optimized, production-ready code under strict time constraints.
+
+<div align="center">
+
+<div align="center">
+
+| 🏆 LeetCode | 🔵 Codeforces | 👨‍🍳 CodeChef |
+| :---: | :---: | :---: |
+| <img src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-07.gif" width="60" height="60"><br>**Knight** | <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"><br>**Specialist** | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"><br>**4-Star** |
+| [Satyam_013](https://leetcode.com/u/Satyam_013/) | [Satyam_1305](https://codeforces.com/profile/Satyam_1305) | [satyam13052001](https://www.codechef.com/users/satyam13052001) |
+| Top Tier Problem Solver | 1400+ Rating | 1800+ Rating |
+
+</div>
+
+---
+
+## ⚡ Technical Arsenal
+
+<div align="center">
+  
+**Core Languages**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,sql&perline=10" />
+</a>
+
+**Frameworks & Backends**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,angular,express&perline=10" />
+</a>
+
+**Cloud, Database & DevOps**<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,postgres,mysql,postman&perline=10" />
+</a>
+
+</div>
+
+---
+## 📊 GitHub Analytics & Consistency
 
 <div align="center">
 
@@ -231,8 +94,8 @@ Full-stack web application for cooking class management.
 
 </div>
 
+<br>
 ---
-
 # 📈 Activity Graph
 
 <div align="center">
@@ -242,42 +105,40 @@ Full-stack web application for cooking class management.
 </div>
 
 ---
+<!-- ## 📊 GitHub Analytics & Consistency -->
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Satyam-k-jha&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-k-jha&theme=tokyonight&hide_border=true&hide_bg=true&title_color=70A5FD&icon_color=BF94E4" height="190" alt="Satyam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-k-jha&theme=tokyonight&hide_border=true&hide_bg=true&title_color=70A5FD&layout=compact" height="190" alt="Satyam's Top Languages" />
 </div>
 
-# 🐍 Contribution Snake
+<br> -->
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-k-jha&theme=tokyonight&hide_border=true&background=00000000&ring=70A5FD&fire=70A5FD&currStreakNum=BF94E4" alt="GitHub Streak" />
+</div> -->
+
+<!-- <br>
 
 <div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Satyam-k-jha&theme=tokyonight&border_radius=12&hide_border=true" />
+</div> -->
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyam-k-jha/Satyam-k-jha/output/github-contribution-grid-snake-dark.svg">
-<img src="https://raw.githubusercontent.com/Satyam-k-jha/Satyam-k-jha/output/github-contribution-grid-snake.svg"/>
-</picture>
+---
 
+## 🐍 Contribution Activity (Eating my commits!)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyam-k-jha/Satyam-k-jha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyam-k-jha/Satyam-k-jha/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Satyam-k-jha/Satyam-k-jha/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-# 🤝 Let's Connect
-
-I'm always interested in discussing
-
-* Backend Engineering
-* Distributed Systems
-* Competitive Programming
-* System Design
-* Open Source
-
-If you'd like to collaborate or discuss exciting engineering opportunities, feel free to connect.
-
 <div align="center">
-
-### ⭐ *"Build. Learn. Optimize. Repeat."*
-
+  <i>"1% better every single day."</i><br>
+  <b>Looking for Software Engineering opportunities! Let's build something amazing together.</b>
 </div>
