@@ -95,7 +95,6 @@ I thrive on solving complex computational problems. My competitive programming r
 </div>
 
 <br>
----
 # 📈 Activity Graph
 
 <div align="center">
