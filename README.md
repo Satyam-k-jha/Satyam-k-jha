@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satyam%20Kumar%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Open%20To%20Work&descAlignY=60&descSize=18&animation=twinkling"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=850&lines=Software+Engineer+%40+LTIMindtree;Backend+Engineer+%7C+ASP.NET+Core+%7C+PostgreSQL;Building+Scalable+Backend+Systems;LeetCode+Knight+(Top+2.15%25);Codeforces+Specialist+%7C+CodeChef+4%E2%98%85;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+LTIMindtree;Backend+Engineer+%7C+ASP.NET+Core+%7C+PostgreSQL;Microsoft+Azure+AZ-900+Certified;LeetCode+Knight+%7C+Codeforces+Specialist+%7C+CodeChef+4%E2%98%85;Building+Scalable+Backend+Systems;Open+to+Product-Based+Opportunities" alt="Typing SVG"/>
 </a>
 
 <br>
@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
+<a href="https://www.codechef.com/users/satyam13052001">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=Satyam-k-jha&label=Profile%20Views&color=6e40c9&style=for-the-badge"/>
 
 </div>
@@ -32,101 +36,100 @@
 
 # 👋 About Me
 
-```yaml
-Name: Satyam Kumar Jha
+- 💼 Software Engineer @ **LTIMindtree**
+- ⚙️ Backend Engineer specializing in **ASP.NET Core, PostgreSQL & REST APIs**
+- ☁️ Microsoft Azure **AZ-900 Certified**
+- 🏆 **LeetCode Knight (Top 2.15%)**, **Codeforces Specialist**, **CodeChef 4★**
+- 🧩 Solved **1200+ DSA Problems**
+- 🚀 Passionate about scalable backend systems, distributed systems and system design
+- 🌱 Currently exploring **Redis, Docker, Microservices & Cloud Architecture**
+- 📫 Reach me at **skumar65321@gmail.com**
 
-Role:
-  Software Engineer @ LTIMindtree
+---
 
-Specialization:
-  Backend Engineering
-  Distributed Systems
-  REST APIs
+# 📌 Highlights
 
-Current Focus:
-  ASP.NET Core
-  PostgreSQL
-  Azure
-  System Design
-  Redis
-  Docker
-
-Achievements:
-  • 1200+ DSA Problems Solved
-  • LeetCode Knight (Top 2.15%)
-  • Codeforces Specialist
-  • CodeChef 4★
-  • Microsoft Azure AZ-900 Certified
-
-Looking For:
-  Software Engineer (Backend)
-  Product-Based Companies
-```
+- 🏢 Software Engineer @ LTIMindtree
+- 🚀 Built enterprise backend services using **ASP.NET Core**
+- ⚡ Designed **20+ REST APIs**
+- 🛰️ Worked on enterprise IoT applications
+- 🏆 LeetCode Knight (Top **2.15%**)
+- 🧩 Solved **1200+** coding problems
+- ☁️ Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛰️ Jal Jeevan Mission (Production Project)
+<details open>
+<summary><b>🛰️ Jal Jeevan Mission (Enterprise IoT Platform)</b></summary>
 
-Real-time IoT monitoring platform for water infrastructure across Uttar Pradesh.
+<br>
+
+Enterprise-scale IoT platform powering real-time monitoring of water infrastructure across Uttar Pradesh.
 
 ### Highlights
 
-- Developed backend services using ASP.NET Core
-- Built scalable REST APIs
-- Worked with PostgreSQL
-- Contributed to real-time monitoring dashboards
-- Azure-based enterprise deployment
+- Built scalable backend services using ASP.NET Core
+- Developed REST APIs for enterprise applications
+- Worked with PostgreSQL for telemetry data
+- Contributed to Azure-hosted production deployments
+- Enabled real-time monitoring dashboards
 
 **Tech Stack**
 
 `ASP.NET Core` • `Angular` • `PostgreSQL` • `Azure`
 
+</details>
+
 ---
 
-## 📦 Inventory Management Platform
+<details open>
+<summary><b>📦 Inventory Management Platform</b></summary>
 
-Scalable backend system for inventory tracking.
+<br>
+
+Scalable backend application for inventory tracking and management.
 
 ### Highlights
 
-- Designed 20+ REST APIs
-- JWT Authentication
-- Role Based Authorization
+- Designed **20+ REST APIs**
+- JWT Authentication & Refresh Tokens
+- Role-Based Authorization
 - Repository Pattern
+- AutoMapper
 - Redis Caching
 - Dockerized Application
-- Optimized inventory lookup using Redis
+- PostgreSQL Database
 
 **Tech Stack**
 
-`ASP.NET Core`
-`PostgreSQL`
-`Redis`
-`Docker`
-`JWT`
+`ASP.NET Core` • `PostgreSQL` • `Redis` • `Docker` • `JWT`
+
+</details>
 
 ---
 
-## ✈️ Flight Route Optimization Engine
+<details open>
+<summary><b>✈️ Flight Route Optimization Engine</b></summary>
 
-Graph-based routing engine for finding optimal flight paths.
+<br>
+
+A graph-based routing engine that computes optimal flight paths between airports.
 
 ### Highlights
 
-- Modeled 7,000+ airports
-- Processed 60,000+ routes
+- Modeled **7,000+ airports**
+- Processed **60,000+ flight routes**
 - Implemented Dijkstra Algorithm
 - Implemented A* Search
-- Optimized shortest path computation
+- Optimized shortest-path computation
 
 **Tech Stack**
 
-`C++`
-`Graph Theory`
-`Priority Queue`
-`Algorithms`
+`C++` • `Graph Theory` • `Priority Queue` • `Algorithms`
+
+</details>
 
 ---
 
@@ -134,26 +137,17 @@ Graph-based routing engine for finding optimal flight paths.
 
 <div align="center">
 
-| Platform | Achievement |
-|:---------|:------------|
-| 🟨 **LeetCode** | Knight (Top **2.15%**) |
-| 🔵 **Codeforces** | Specialist |
-| 🟤 **CodeChef** | 4★ |
-| 🧩 **Problems Solved** | **1200+** |
-
-</div>
-
-<div align="center">
-
-| LeetCode | Codeforces | CodeChef |
-|:---:|:---:|:---:|
-| [Satyam_013](https://leetcode.com/u/Satyam_013/) | [Satyam_1305](https://codeforces.com/profile/Satyam_1305) | [satyam13052001](https://www.codechef.com/users/satyam13052001) |
+| Platform | Achievement | Profile |
+|:---------|:-----------|:--------|
+| 🟨 **LeetCode** | Knight (Top **2.15%**) | [Satyam_013](https://leetcode.com/u/Satyam_013/) |
+| 🔵 **Codeforces** | Specialist | [Satyam_1305](https://codeforces.com/profile/Satyam_1305) |
+| 🟤 **CodeChef** | 4★ | [satyam13052001](https://www.codechef.com/users/satyam13052001) |
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Technical Arsenal
 
 <div align="center">
 
@@ -166,7 +160,7 @@ Graph-based routing engine for finding optimal flight paths.
 ### Backend
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
 </a>
 
 ### Frontend
@@ -246,9 +240,9 @@ srcset="https://raw.githubusercontent.com/Satyam-k-jha/Satyam-k-jha/output/githu
 - Distributed Systems
 - Microservices
 - System Design
-- Redis
-- Docker
-- Cloud Native Development
+- Cloud Architecture
+- Performance Optimization
+- Redis & Docker
 
 ---
 
@@ -262,9 +256,13 @@ srcset="https://raw.githubusercontent.com/Satyam-k-jha/Satyam-k-jha/output/githu
 
 ### 💼 Open to Software Engineering Opportunities
 
-Backend • Distributed Systems • Cloud • Product Engineering
+**Backend Engineering • Distributed Systems • Cloud • Product Engineering**
 
 <br>
+
+*"Building scalable backend systems one API at a time."*
+
+<br><br>
 
 <a href="mailto:skumar65321@gmail.com">
 <img src="https://img.shields.io/badge/Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
