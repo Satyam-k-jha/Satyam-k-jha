@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satyam%20Kumar%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Competitive%20Programmer%20%7C%20Open%20To%20Work&descAlignY=60&descSize=18&animation=twinkling"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+LTIMindtree;Backend+Engineer+%7C+ASP.NET+Core+%7C+PostgreSQL;Microsoft+Azure+AZ-900+Certified;LeetCode+Knight+%7C+Codeforces+Specialist+%7C+CodeChef+4%E2%98%85;Building+Scalable+Backend+Systems;Open+to+Product-Based+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=1050&lines=Software+Engineer+%40+LTM+(formerly+LTIMindtree);Backend+Engineer+%7C+ASP.NET+Core+%7C+PostgreSQL;Microsoft+Azure+AZ-900+Certified;LeetCode+Knight+%7C+Codeforces+Specialist+%7C+CodeChef+4%E2%98%85;Building+Scalable+Backend+Systems;Open+to+Product-Based+Opportunities" alt="Typing SVG"/>
 </a>
 
 <br>
