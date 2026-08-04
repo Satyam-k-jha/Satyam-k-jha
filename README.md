@@ -49,7 +49,7 @@
 
 # 📌 Highlights
 
-- 🏢 Software Engineer @ LTIMindtree
+- 🏢 Software Engineer @ LTM (formerly LTIMindtree)
 - 🚀 Built enterprise backend services using **ASP.NET Core**
 - ⚡ Designed **20+ REST APIs**
 - 🛰️ Worked on enterprise IoT applications
